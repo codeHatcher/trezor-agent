@@ -19,6 +19,7 @@ setup(
         'ed25519>=1.4',
         'semver>=2.2',
         'unidecode>=0.4.20',
+        'PyQt5>=5.8',  # for PIN entry
     ],
     platforms=['POSIX'],
     classifiers=[
